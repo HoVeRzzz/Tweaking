@@ -3,7 +3,7 @@
 
 - [x] All people that helped me are properly credited.
 
-- [x] If you need any help contact me via Discord: HoVeRzzz#2190
+- [x] If you need any help contact me via Discord: HoVeRzzz#3107
 
 - [MY TWEAKING SERVER PROJECT](https://discord.gg/3cjuczW)
 
