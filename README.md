@@ -12,7 +12,7 @@
 - [MY TWEAKING SERVER PROJECT](https://discord.gg/3cjuczW)
 
 - [x] **My socials:**
-  -  [Twitter](https://twitter.com/superstrikexd)
+  -  [Twitter](https://twitter.com/HoVeRzzz)
 
 
 - [CONSIDER SHARING MY GITHUB!](https://github.com/HoVeRzzz/Tweaking)
