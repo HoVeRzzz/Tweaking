@@ -52,10 +52,11 @@ software development can bring in diverse perspectives beyond those of a
 
 **BROWSERS**
  - [TOR BROWSER ](https://www.torproject.org/)
+ - [Brave](https://brave.com/)
  - [Firefox](https://www.mozilla.org/en-US/firefox/new/)
  - [Ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium/)
  - [Iridium ](https://github.com/iridium-browser/iridium-browser)
- - [Brave](https://brave.com/)
+ 
 
 **FIREWALL** 
  - [Simplewall](https://github.com/henrypp/simplewall) for Windows
@@ -74,8 +75,9 @@ software development can bring in diverse perspectives beyond those of a
  - [DuckDuckGo](https://duckduckgo.com/)
 
 **PASSWORD MANAGER**
+ - [KeePassXC](https://keepassxc.org/)
  - [Bitwarden](https://bitwarden.com/)
- - [KeePassDX](https://www.keepassdx.com/) Open source and for android
+ - [KeePassDX](https://www.keepassdx.com/)
 
 **YOUTUBE REPLACEMENT**
  - [Invidious](https://invidio.us/) Watch YouTube Videos Online Without javascript
