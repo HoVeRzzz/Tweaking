@@ -1,3 +1,7 @@
+**This repo is highly outdated as I'm just reviving a project from the past to make it publicly available. Maybe update it soon.**
+
+
+
 # About ME and this project!
 - [x] My objective with this GitHub Page is to provide you the best tools/programs/tweaks/scripts among others to help you in your tweaking session.
 
