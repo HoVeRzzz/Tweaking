@@ -11,7 +11,7 @@
   -  [Twitter](https://twitter.com/superstrikexd)
 
 
-- [CONSIDER SHARING MY GITHUB!](https://github.com/SuperStrikEtweaks/Tweaking)
+- [CONSIDER SHARING MY GITHUB!](https://github.com/HoVeRzzz/Tweaking)
 
 
 ## DISCLAIMER:
