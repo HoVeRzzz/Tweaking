@@ -22,7 +22,7 @@
 - If you're noob, consider informing yourself properly before you further proceed.
 - No one here is responsible if you break your PC.
 
-### FOR SUPPORT ADD ME ON DISCORD: HoVeRzzz#2190
+### FOR SUPPORT ADD ME ON DISCORD: HoVeRzzz#3107
 
 
 ## CREDITS  :+1: :
