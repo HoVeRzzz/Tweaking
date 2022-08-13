@@ -34,3 +34,5 @@
 - [Mem Reduct](https://www.majorgeeks.com/files/details/mem_reduct.html)
 
 - [Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+
+- [Explorer Killer](https://github.com/HoVeRzzz/Explorer-Killer)
